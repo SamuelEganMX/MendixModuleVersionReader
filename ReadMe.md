@@ -68,3 +68,11 @@ This project is written in TypeScript and must be compiled to JavaScript before 
     - Module name
     - App Store version
     - App Store GUIDs
+
+## Using release executable
+
+If you'd rather skip the steps above and are on a windows machine, you can download the exe from the releases and run it using this command:
+
+```bash
+.\MendixModuleReader.exe
+```
